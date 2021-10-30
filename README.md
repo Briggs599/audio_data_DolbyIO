@@ -1,5 +1,5 @@
 # Unlocking More From Your Audio Data!
-### By Braden Riggs | @Bradenriggs599
+### By Braden Riggs | @bradenriggs1
 ---
 
 Demo notebooks presented at PyData Global 2021 for "Unlocking more from your audio data".
