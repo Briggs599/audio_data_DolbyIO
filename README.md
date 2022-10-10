@@ -1,6 +1,11 @@
 # Unlocking More From Your Audio Data!
 ### By Braden Riggs | @bradenriggs1
 ---
+
+In a world where content capture and creation sits in your pocket, the amount of audio collected and stored has exploded exponentially in recent years creating a goldmine of unstructured data ready to be explored and used. Just one problem, how do we work with all of this audio data and how do we make sure we are utilizing it to its full potential? In this talk we will explore how you can unlock more from your audio data in python, exploring some of our favorite data extraction and analysis tools and how we used them to better understand the world of podcast creation.
+
+As part of the Dolby.io (https://dolby.io/) team we regularly work with audio data for a variety of data science related projects and are eager to share some of the tips, tricks and tools we've learnt along the way that can help audio data beginners get started and inspire seasoned veterans to rethink how they work in the space.
+
 ![Podcast Speaker Count](Picture1.png)
 
 Demo notebooks presented at PyData Global 2021 and SciPy LatAm 2021 for "Unlocking more from your audio data".
